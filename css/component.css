@@ -78,7 +78,10 @@ html, body,
 }
 
 .section-header {
-	position: absolute;
+	float: right;
 	bottom: 0;
 	left : 0;
+	margin: 20px;
+	padding-top: 630px;
+	color: black;
 }
